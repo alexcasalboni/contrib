@@ -6,4 +6,7 @@ tags:
     - testing
 title: 'Testing serverless applications - Slobodan Stojanović'
 recordingDate: 1551523934
+speaker:
+    name: 'Slobodan Stojanović'
+    twitter: slobodan_
 description: "Serverless is more than a cloud computing execution model. It changes the way we are planning, building and deploying apps. But it also changes the way we are approaching testing apps.\n\nThis talk explores the way we are and should test serverless apps, differences between testing traditional and serverless apps, and how does serverless affect other types of testing, including manual testing and UI testing.\n\nWebsite: https://cardiff.serverlessdays.io/\nSlides: https://speakerdeck.com/slobodan/testing-serverless-applications-serverless-days-cardiff-2019"
